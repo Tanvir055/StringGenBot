@@ -11,7 +11,7 @@
         "pyrogram",
         "telethon"
     ],
-    "repository": "https://t.me/itsSmartDev",
+    "repository": "https://t.me/sugar_mmy_update",
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
